@@ -1,7 +1,11 @@
 ejemplo linea 1
 
 linea3 y borro 2
+<<<<<<< HEAD
 
 cambio fichero
 
 linea que añado en master antes de mergear
+=======
+linea añadida en ramaprofe
+>>>>>>> ramaprofe
